@@ -475,4 +475,4 @@ async def help(ctx):
     embed.add_field(name='shutdown', value='Shuts down the bot')
     await ctx.send(embed=embed)
 
-bot.run('OTk2MDk2NzQ0MTkyNDk1NjU2.G4hIYo.UZv3e_R0E0QmGzBVShK-CO7rSUUpF1U-u1SHdE')
+bot.run('OTk2MDk2NzQ0MTkyNDk1NjU2.GDwxYC.af04IUTO4OMLV0cReizv6GlHrmYPtybSCszsc0')
